@@ -1,0 +1,24 @@
+{
+  "name": "taste-skill",
+  "version": "1.0.0",
+  "description": "A collection of skills that improve how AI tools write frontend code. Instead of generating generic, boring interfaces, the AI builds modern, premium designs with proper animations, spacing, and visual quality.",
+  "author": {
+    "name": "Irfanfaraaz",
+    "email": "irfanfaraaz03@gmail.com"
+  },
+  "homepage": "https://tasteskill.dev",
+  "repository": "https://github.com/irfanfaraaz/taste-skill-plugin",
+  "license": "MIT",
+  "keywords": [
+    "ui",
+    "ux",
+    "design",
+    "frontend",
+    "premium",
+    "typography",
+    "animations",
+    "tailwind",
+    "react",
+    "nextjs"
+  ]
+}
